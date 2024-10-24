@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "snmp"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
